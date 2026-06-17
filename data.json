@@ -1,24 +1,5 @@
 {
-  "holdings": [
-    {
-      "id": "mqhoz88mdac1i1",
-      "market": "us",
-      "code": "AAPL",
-      "name": "Apple",
-      "shares": 50,
-      "costPrice": 185,
-      "currentPrice": 228.5
-    },
-    {
-      "id": "mqhoz88mtsyfmr",
-      "market": "us",
-      "code": "NVDA",
-      "name": "NVIDIA",
-      "shares": 40,
-      "costPrice": 780,
-      "currentPrice": 1210
-    }
-  ],
+  "holdings": [],
   "trades": [
     {
       "id": "mqhoz88mgi7wtq",
@@ -31,5 +12,5 @@
       "fee": 3
     }
   ],
-  "_version": 1781678531248
+  "_version": 1781678534579
 }
