@@ -1,0 +1,111 @@
+{
+  "holdings": [
+    {
+      "id": "mqhoz88mhdd0j9",
+      "market": "a",
+      "code": "600519",
+      "name": "贵州茅台",
+      "shares": 100,
+      "costPrice": 1805,
+      "currentPrice": 2172
+    },
+    {
+      "id": "mqhoz88mojz0iu",
+      "market": "a",
+      "code": "000858",
+      "name": "五粮液",
+      "shares": 300,
+      "costPrice": 162,
+      "currentPrice": 148.5
+    },
+    {
+      "id": "mqhoz88mv0i9r2",
+      "market": "a",
+      "code": "300750",
+      "name": "宁德时代",
+      "shares": 500,
+      "costPrice": 195,
+      "currentPrice": 248.6
+    },
+    {
+      "id": "mqhoz88mqxhvfm",
+      "market": "hk",
+      "code": "00700",
+      "name": "腾讯控股",
+      "shares": 200,
+      "costPrice": 385,
+      "currentPrice": 502
+    },
+    {
+      "id": "mqhoz88mdac1i1",
+      "market": "us",
+      "code": "AAPL",
+      "name": "Apple",
+      "shares": 50,
+      "costPrice": 185,
+      "currentPrice": 228.5
+    },
+    {
+      "id": "mqhoz88mtsyfmr",
+      "market": "us",
+      "code": "NVDA",
+      "name": "NVIDIA",
+      "shares": 40,
+      "costPrice": 780,
+      "currentPrice": 1210
+    }
+  ],
+  "trades": [
+    {
+      "id": "mqhoz88m23idmi",
+      "date": "2026-04-02",
+      "type": "buy",
+      "code": "000858",
+      "name": "五粮液",
+      "shares": 300,
+      "price": 162,
+      "fee": 5
+    },
+    {
+      "id": "mqhoz88mi3guj9",
+      "date": "2026-04-15",
+      "type": "buy",
+      "code": "300750",
+      "name": "宁德时代",
+      "shares": 500,
+      "price": 195,
+      "fee": 5
+    },
+    {
+      "id": "mqhoz88mxc3r4r",
+      "date": "2026-05-08",
+      "type": "buy",
+      "code": "00700",
+      "name": "腾讯控股",
+      "shares": 200,
+      "price": 385,
+      "fee": 15
+    },
+    {
+      "id": "mqhoz88m6zni3o",
+      "date": "2026-05-20",
+      "type": "buy",
+      "code": "AAPL",
+      "name": "Apple",
+      "shares": 50,
+      "price": 185,
+      "fee": 3
+    },
+    {
+      "id": "mqhoz88mgi7wtq",
+      "date": "2026-06-01",
+      "type": "buy",
+      "code": "NVDA",
+      "name": "NVIDIA",
+      "shares": 40,
+      "price": 780,
+      "fee": 3
+    }
+  ],
+  "_version": 1781678290377
+}
