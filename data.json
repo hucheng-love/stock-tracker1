@@ -1,16 +1,5 @@
 {
   "holdings": [],
-  "trades": [
-    {
-      "id": "mqhoz88mgi7wtq",
-      "date": "2026-06-01",
-      "type": "buy",
-      "code": "NVDA",
-      "name": "NVIDIA",
-      "shares": 40,
-      "price": 780,
-      "fee": 3
-    }
-  ],
-  "_version": 1781678534579
+  "trades": [],
+  "_version": 1781678550921
 }
