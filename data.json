@@ -57,26 +57,6 @@
   ],
   "trades": [
     {
-      "id": "mqhoz88mxc3r4r",
-      "date": "2026-05-08",
-      "type": "buy",
-      "code": "00700",
-      "name": "腾讯控股",
-      "shares": 200,
-      "price": 385,
-      "fee": 15
-    },
-    {
-      "id": "mqhoz88m6zni3o",
-      "date": "2026-05-20",
-      "type": "buy",
-      "code": "AAPL",
-      "name": "Apple",
-      "shares": 50,
-      "price": 185,
-      "fee": 3
-    },
-    {
       "id": "mqhoz88mgi7wtq",
       "date": "2026-06-01",
       "type": "buy",
@@ -87,5 +67,5 @@
       "fee": 3
     }
   ],
-  "_version": 1781678294979
+  "_version": 1781678298280
 }
