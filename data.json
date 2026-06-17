@@ -57,16 +57,6 @@
   ],
   "trades": [
     {
-      "id": "mqhoz88m23idmi",
-      "date": "2026-04-02",
-      "type": "buy",
-      "code": "000858",
-      "name": "五粮液",
-      "shares": 300,
-      "price": 162,
-      "fee": 5
-    },
-    {
       "id": "mqhoz88mi3guj9",
       "date": "2026-04-15",
       "type": "buy",
@@ -107,5 +97,5 @@
       "fee": 3
     }
   ],
-  "_version": 1781678290377
+  "_version": 1781678292840
 }
