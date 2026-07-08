@@ -1,5 +1,15 @@
 {
-  "holdings": [],
+  "holdings": [
+    {
+      "id": "mrbpmjrxxy01op",
+      "market": "a",
+      "code": "601600",
+      "name": "中国铝业",
+      "shares": 200,
+      "costPrice": 8.235,
+      "currentPrice": 8.21
+    }
+  ],
   "trades": [
     {
       "id": "mrbpl8vl1lrmyh",
@@ -12,5 +22,5 @@
       "fee": 5
     }
   ],
-  "_version": 1783492844828
+  "_version": 1783492905621
 }
