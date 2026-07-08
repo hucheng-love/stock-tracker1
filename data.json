@@ -1,5 +1,16 @@
 {
   "holdings": [],
-  "trades": [],
-  "_version": 1783492701664
+  "trades": [
+    {
+      "id": "mrbpl8vl1lrmyh",
+      "date": "2026-07-08",
+      "type": "buy",
+      "code": "601600",
+      "name": "中国铝业",
+      "shares": 200,
+      "price": 8.21,
+      "fee": 5
+    }
+  ],
+  "_version": 1783492844828
 }
