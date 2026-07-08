@@ -7,7 +7,7 @@
       "name": "中国铝业",
       "shares": 200,
       "costPrice": 8.235,
-      "currentPrice": 8.21
+      "currentPrice": 8.22
     }
   ],
   "trades": [
@@ -22,5 +22,5 @@
       "fee": 5
     }
   ],
-  "_version": 1783492916701
+  "_version": 1783492921093
 }
