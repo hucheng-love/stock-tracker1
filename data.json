@@ -40,27 +40,7 @@
       "shares": 200,
       "price": 385,
       "fee": 15
-    },
-    {
-      "id": "mr4c26lzln811p",
-      "date": "2026-05-20",
-      "type": "buy",
-      "code": "AAPL",
-      "name": "Apple",
-      "shares": 50,
-      "price": 185,
-      "fee": 3
-    },
-    {
-      "id": "mr4c26lz2m5090",
-      "date": "2026-06-01",
-      "type": "buy",
-      "code": "NVDA",
-      "name": "NVIDIA",
-      "shares": 40,
-      "price": 780,
-      "fee": 3
     }
   ],
-  "_version": 1783492686823
+  "_version": 1783492693805
 }
