@@ -1,26 +1,5 @@
 {
   "holdings": [],
-  "trades": [
-    {
-      "id": "mr4c26lzud0hqq",
-      "date": "2026-03-10",
-      "type": "buy",
-      "code": "600519",
-      "name": "贵州茅台",
-      "shares": 100,
-      "price": 1805,
-      "fee": 5
-    },
-    {
-      "id": "mr4c26lz45r5zq",
-      "date": "2026-04-02",
-      "type": "buy",
-      "code": "000858",
-      "name": "五粮液",
-      "shares": 300,
-      "price": 162,
-      "fee": 5
-    }
-  ],
-  "_version": 1783492698173
+  "trades": [],
+  "_version": 1783492701664
 }
