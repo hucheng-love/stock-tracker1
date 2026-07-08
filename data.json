@@ -1,5 +1,121 @@
 {
-  "holdings": [],
-  "trades": [],
-  "_version": 1782088797919
+  "holdings": [
+    {
+      "id": "mr4c26lznzrr5m",
+      "market": "a",
+      "code": "600519",
+      "name": "贵州茅台",
+      "shares": 100,
+      "costPrice": 1805,
+      "currentPrice": 2172
+    },
+    {
+      "id": "mr4c26lzieaduj",
+      "market": "a",
+      "code": "000858",
+      "name": "五粮液",
+      "shares": 300,
+      "costPrice": 162,
+      "currentPrice": 148.5
+    },
+    {
+      "id": "mr4c26lzm5gpxm",
+      "market": "a",
+      "code": "300750",
+      "name": "宁德时代",
+      "shares": 500,
+      "costPrice": 195,
+      "currentPrice": 248.6
+    },
+    {
+      "id": "mr4c26lz3oux7b",
+      "market": "hk",
+      "code": "00700",
+      "name": "腾讯控股",
+      "shares": 200,
+      "costPrice": 385,
+      "currentPrice": 502
+    },
+    {
+      "id": "mr4c26lzmdkijt",
+      "market": "us",
+      "code": "AAPL",
+      "name": "Apple",
+      "shares": 50,
+      "costPrice": 185,
+      "currentPrice": 228.5
+    },
+    {
+      "id": "mr4c26lz7apvzh",
+      "market": "us",
+      "code": "NVDA",
+      "name": "NVIDIA",
+      "shares": 40,
+      "costPrice": 780,
+      "currentPrice": 1210
+    }
+  ],
+  "trades": [
+    {
+      "id": "mr4c26lzud0hqq",
+      "date": "2026-03-10",
+      "type": "buy",
+      "code": "600519",
+      "name": "贵州茅台",
+      "shares": 100,
+      "price": 1805,
+      "fee": 5
+    },
+    {
+      "id": "mr4c26lz45r5zq",
+      "date": "2026-04-02",
+      "type": "buy",
+      "code": "000858",
+      "name": "五粮液",
+      "shares": 300,
+      "price": 162,
+      "fee": 5
+    },
+    {
+      "id": "mr4c26lzzyofid",
+      "date": "2026-04-15",
+      "type": "buy",
+      "code": "300750",
+      "name": "宁德时代",
+      "shares": 500,
+      "price": 195,
+      "fee": 5
+    },
+    {
+      "id": "mr4c26lz9bvnae",
+      "date": "2026-05-08",
+      "type": "buy",
+      "code": "00700",
+      "name": "腾讯控股",
+      "shares": 200,
+      "price": 385,
+      "fee": 15
+    },
+    {
+      "id": "mr4c26lzln811p",
+      "date": "2026-05-20",
+      "type": "buy",
+      "code": "AAPL",
+      "name": "Apple",
+      "shares": 50,
+      "price": 185,
+      "fee": 3
+    },
+    {
+      "id": "mr4c26lz2m5090",
+      "date": "2026-06-01",
+      "type": "buy",
+      "code": "NVDA",
+      "name": "NVIDIA",
+      "shares": 40,
+      "price": 780,
+      "fee": 3
+    }
+  ],
+  "_version": 1783492640398
 }
