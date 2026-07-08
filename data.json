@@ -1,24 +1,6 @@
 {
   "holdings": [
     {
-      "id": "mr4c26lzm5gpxm",
-      "market": "a",
-      "code": "300750",
-      "name": "宁德时代",
-      "shares": 500,
-      "costPrice": 195,
-      "currentPrice": 248.6
-    },
-    {
-      "id": "mr4c26lz3oux7b",
-      "market": "hk",
-      "code": "00700",
-      "name": "腾讯控股",
-      "shares": 200,
-      "costPrice": 385,
-      "currentPrice": 502
-    },
-    {
       "id": "mr4c26lzmdkijt",
       "market": "us",
       "code": "AAPL",
@@ -99,5 +81,5 @@
       "fee": 3
     }
   ],
-  "_version": 1783492678006
+  "_version": 1783492682259
 }
