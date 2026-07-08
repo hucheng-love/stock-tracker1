@@ -20,27 +20,7 @@
       "shares": 300,
       "price": 162,
       "fee": 5
-    },
-    {
-      "id": "mr4c26lzzyofid",
-      "date": "2026-04-15",
-      "type": "buy",
-      "code": "300750",
-      "name": "宁德时代",
-      "shares": 500,
-      "price": 195,
-      "fee": 5
-    },
-    {
-      "id": "mr4c26lz9bvnae",
-      "date": "2026-05-08",
-      "type": "buy",
-      "code": "00700",
-      "name": "腾讯控股",
-      "shares": 200,
-      "price": 385,
-      "fee": 15
     }
   ],
-  "_version": 1783492693805
+  "_version": 1783492698173
 }
