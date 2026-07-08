@@ -1,24 +1,6 @@
 {
   "holdings": [
     {
-      "id": "mr4c26lznzrr5m",
-      "market": "a",
-      "code": "600519",
-      "name": "贵州茅台",
-      "shares": 100,
-      "costPrice": 1805,
-      "currentPrice": 2172
-    },
-    {
-      "id": "mr4c26lzieaduj",
-      "market": "a",
-      "code": "000858",
-      "name": "五粮液",
-      "shares": 300,
-      "costPrice": 162,
-      "currentPrice": 148.5
-    },
-    {
       "id": "mr4c26lzm5gpxm",
       "market": "a",
       "code": "300750",
@@ -117,5 +99,5 @@
       "fee": 3
     }
   ],
-  "_version": 1783492640398
+  "_version": 1783492678006
 }
