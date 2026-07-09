@@ -7,7 +7,7 @@
       "name": "ä¸­å½éä¸",
       "shares": 300,
       "costPrice": 8.197,
-      "currentPrice": 8.08
+      "currentPrice": 8.09
     },
     {
       "id": "mrd4gyf8pn4oem",
@@ -16,7 +16,7 @@
       "name": "华友钴业",
       "shares": 100,
       "costPrice": 42.05,
-      "currentPrice": 42.06
+      "currentPrice": 42.07
     }
   ],
   "trades": [
@@ -51,5 +51,5 @@
       "fee": 5
     }
   ],
-  "_version": 1783578383822
+  "_version": 1783578390867
 }
