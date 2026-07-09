@@ -16,7 +16,7 @@
       "name": "华友钴业",
       "shares": 100,
       "costPrice": 42.05,
-      "currentPrice": 42.12
+      "currentPrice": 42.15
     },
     {
       "id": "mrd5br8wi81slf",
@@ -70,5 +70,5 @@
       "fee": 5
     }
   ],
-  "_version": 1783580579479
+  "_version": 1783580582681
 }
