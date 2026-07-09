@@ -17,6 +17,15 @@
       "shares": 100,
       "costPrice": 42.05,
       "currentPrice": 42.11
+    },
+    {
+      "id": "mrd5br8wi81slf",
+      "market": "a",
+      "code": "002241",
+      "name": "歌尔股份",
+      "shares": 100,
+      "costPrice": 21.42,
+      "currentPrice": 21.37
     }
   ],
   "trades": [
@@ -61,5 +70,5 @@
       "fee": 5
     }
   ],
-  "_version": 1783579663490
+  "_version": 1783579741939
 }
