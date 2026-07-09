@@ -4,10 +4,19 @@
       "id": "mrbpth1888ob9y",
       "market": "a",
       "code": "601600",
-      "name": "ä¸­å½éä¸",
+      "name": "Ã¤Â¸Â­Ã¥ÂÂ½Ã©ÂÂÃ¤Â¸Â",
       "shares": 200,
       "costPrice": 8.235,
       "currentPrice": 8.18
+    },
+    {
+      "id": "mrcv5rlz73w4k0",
+      "market": "a",
+      "code": "601600",
+      "name": "中国铝业",
+      "shares": 100,
+      "costPrice": 8.07,
+      "currentPrice": 8.07
     }
   ],
   "trades": [
@@ -16,11 +25,11 @@
       "date": "2026-07-08",
       "type": "buy",
       "code": "601600",
-      "name": "ä¸­å½éä¸",
+      "name": "Ã¤Â¸Â­Ã¥ÂÂ½Ã©ÂÂÃ¤Â¸Â",
       "shares": 200,
       "price": 8.21,
       "fee": 5
     }
   ],
-  "_version": 1783494540678
+  "_version": 1783562666475
 }
