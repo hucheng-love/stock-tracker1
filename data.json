@@ -7,7 +7,7 @@
       "name": "ä¸­å½éä¸",
       "shares": 300,
       "costPrice": 8.197,
-      "currentPrice": 8.01
+      "currentPrice": 7.99
     }
   ],
   "trades": [
@@ -32,5 +32,5 @@
       "fee": 5
     }
   ],
-  "_version": 1783564768269
+  "_version": 1783564770973
 }
