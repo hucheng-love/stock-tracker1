@@ -16,7 +16,7 @@
       "name": "华友钴业",
       "shares": 100,
       "costPrice": 42.05,
-      "currentPrice": 42.1
+      "currentPrice": 42.11
     }
   ],
   "trades": [
@@ -49,7 +49,17 @@
       "shares": 100,
       "price": 42,
       "fee": 5
+    },
+    {
+      "id": "mrd5a2kkg8vhy9",
+      "date": "2026-07-09",
+      "type": "buy",
+      "code": "002241",
+      "name": "歌尔股份",
+      "shares": 100,
+      "price": 21.37,
+      "fee": 5
     }
   ],
-  "_version": 1783578414845
+  "_version": 1783579663490
 }
