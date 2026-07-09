@@ -8,6 +8,15 @@
       "shares": 300,
       "costPrice": 8.197,
       "currentPrice": 7.91
+    },
+    {
+      "id": "mrd4gyf8pn4oem",
+      "market": "a",
+      "code": "603799",
+      "name": "华友钴业",
+      "shares": 100,
+      "costPrice": 42.05,
+      "currentPrice": 42.06
     }
   ],
   "trades": [
@@ -42,5 +51,5 @@
       "fee": 5
     }
   ],
-  "_version": 1783578243927
+  "_version": 1783578305103
 }
