@@ -16,7 +16,7 @@
       "name": "华友钴业",
       "shares": 100,
       "costPrice": 42.05,
-      "currentPrice": 42.07
+      "currentPrice": 42.08
     }
   ],
   "trades": [
@@ -51,5 +51,5 @@
       "fee": 5
     }
   ],
-  "_version": 1783578390867
+  "_version": 1783578392817
 }
