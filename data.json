@@ -1,15 +1,6 @@
 {
   "holdings": [
     {
-      "id": "mrbpth1888ob9y",
-      "market": "a",
-      "code": "601600",
-      "name": "Ã¤Â¸Â­Ã¥ÂÂ½Ã©ÂÂÃ¤Â¸Â",
-      "shares": 200,
-      "costPrice": 8.235,
-      "currentPrice": 8.18
-    },
-    {
       "id": "mrcv5rlz73w4k0",
       "market": "a",
       "code": "601600",
@@ -41,5 +32,5 @@
       "fee": 5
     }
   ],
-  "_version": 1783562715631
+  "_version": 1783562743175
 }
