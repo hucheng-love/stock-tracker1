@@ -7,7 +7,7 @@
       "name": "ä¸­å½éä¸",
       "shares": 300,
       "costPrice": 8.197,
-      "currentPrice": 8.09
+      "currentPrice": 8.1
     },
     {
       "id": "mrd4gyf8pn4oem",
@@ -70,5 +70,5 @@
       "fee": 5
     }
   ],
-  "_version": 1783579741939
+  "_version": 1783580569879
 }
