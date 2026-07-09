@@ -29,7 +29,17 @@
       "shares": 200,
       "price": 8.21,
       "fee": 5
+    },
+    {
+      "id": "mrcv6tn5adhs38",
+      "date": "2026-07-09",
+      "type": "buy",
+      "code": "601600",
+      "name": "中国铝业",
+      "shares": 100,
+      "price": 8.07,
+      "fee": 5
     }
   ],
-  "_version": 1783562666475
+  "_version": 1783562715631
 }
