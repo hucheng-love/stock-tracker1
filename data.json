@@ -30,7 +30,17 @@
       "shares": 100,
       "price": 8.07,
       "fee": 5
+    },
+    {
+      "id": "mrd4fn8jwyjfqa",
+      "date": "2026-07-09",
+      "type": "buy",
+      "code": "603799",
+      "name": "华友钴业",
+      "shares": 100,
+      "price": 42,
+      "fee": 5
     }
   ],
-  "_version": 1783564781180
+  "_version": 1783578243927
 }
