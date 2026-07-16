@@ -8,24 +8,6 @@
       "shares": 300,
       "costPrice": 8.197,
       "currentPrice": 8.7
-    },
-    {
-      "id": "mrd4gyf8pn4oem",
-      "market": "a",
-      "code": "603799",
-      "name": "ååé´ä¸",
-      "shares": 100,
-      "costPrice": 42.05,
-      "currentPrice": 42.19
-    },
-    {
-      "id": "mrd5br8wi81slf",
-      "market": "a",
-      "code": "002241",
-      "name": "æ­å°è¡ä»½",
-      "shares": 100,
-      "costPrice": 21.42,
-      "currentPrice": 21.37
     }
   ],
   "trades": [
@@ -70,5 +52,5 @@
       "fee": 5
     }
   ],
-  "_version": 1784182492812
+  "_version": 1784182504989
 }
